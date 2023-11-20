@@ -1,0 +1,64 @@
+---
+title: "Yizhou Ben Ma"
+image: "Yizhou.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ybenma"
+  - label: Scholar
+    url: "https://scholar.google.com/citations?user=LTcsUgcAAAAJ&hl=en&oi=ao"
+  - label: GitLab@WUR
+    url: "https://git.wur.nl/yizhou.ma"
+output:
+  postcards::solana
+---
+
+## About
+
+Yizhou Ben Ma is a PhD researcher at [Wageningen University & Research (WUR)](https://wur.eu) currently working on the adaptive control of 3D food printing. His research focuses on the interface between digitization and food science. He is interested in developing digital solutions to food problems in product development, manufacturing, and consumer insights. Prior to his PhD research, Yizhou worked as a senior R&D scientist at [Gastrograph AI](https://gastrograph.com), where he developed predictive sensory analytics using natural language processing and machine learning models. Yizhou’s professional and personal pursuits are built upon global responsibility, data-driven research, and sustainable system design.
+
+## Projects
+
+PhD Thesis Project: [Adaptive control of 3D food printing](https://www.wur.nl/en/project/Data-driven-modelling-and-adaptive-control-of-extrusion-based-3D-printing-of-complex-food-systems.htm)
+
+The [Food in the Hood](https://anchor.fm/food-in-the-hood) podcast with Amanda Sia
+
+The [Snackologist](https://www.youtube.com/channel/UCtN8KfUHJR75FWd10G7rDoQ/featured) YouTube channel (Inactive)
+
+## Writings and Publications
+
+[Predictive Analytics in Food Manufacturing](https://www.linkedin.com/pulse/predictive-analytics-food-manufacturing-grey-box-models-ma/)
+
+[Exploring 10,000 Food Science Publication Titles](https://www.linkedin.com/pulse/exploring-10000-food-science-publication-titles-ben-yizhou-ma/)
+
+[Formulated food inks for extrusion-based 3D printing of personalized foods](https://www.sciencedirect.com/science/article/pii/S2214799321001727)
+
+More academic papers on [Google Scholar Page](https://scholar.google.com/citations?user=LTcsUgcAAAAJ&hl=en)
+
+## Yizhou on Media
+
+Interview on AigoraCast: [Printing the Future](https://open.spotify.com/episode/5ZeR94fNeDBGaXq0IodQQY)
+
+Interview on Abbey the Food Scientist [The Future of Personalized Foods](https://www.youtube.com/watch?v=dXFQY6qjtmc&ab_channel=AbbeytheFoodScientist)
+
+
+## Educations
+
+**Ph.D. in Food Science** (in 2024)
+
+Wageningen University | Wageningen, NL
+
+**M.S. in Food Science**
+
+Kansas State University | Manhattan, KS, USA
+
+**B.S. in Food Science** 
+
+University of Minnesota | St.Paul, MN, USA
+
+
+
+
+
+#### Credits
+*This website is created using the [postcards](https://github.com/seankross/postcards) package in Rmarkdown*
+
